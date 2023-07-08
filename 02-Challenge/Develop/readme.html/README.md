@@ -17,7 +17,7 @@
   ## Installation
   N/A
   ## Usage
-  JavaScript, nodejs, markdown, inquirer package
+  NodeJs, JavaScript, Inquirer packges, markdown
   ## Contributors
   N/A
   ## Contact-me
@@ -25,9 +25,11 @@
   . Email - ibrahimadiallo2394@gmail.com
   . Github - $[gninkan94](https://github.com/gninkan94/)
   ## Testing
-  ``  N/A
-  ```
-  ## Questions
+  
+  N/A
+  
+## Questions
+
   N/A
 
   ## license

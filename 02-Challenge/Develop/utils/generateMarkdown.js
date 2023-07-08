@@ -52,10 +52,11 @@ function generateMarkdown(data) {
   . Email - ${data.email}
   . Github - $[${data.creator}](https://github.com/${data.creator}/)
   ## Testing
-  \`\`\
+  
   ${data.test}
-  \`\`\`
-  ## Questions
+  
+## Questions
+
   ${data.questions}
 
   ${renderLicenseSection(data.license)}
