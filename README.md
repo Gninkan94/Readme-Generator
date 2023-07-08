@@ -6,4 +6,4 @@ N/A
 
 ## link of a walkthrough video demonstrating the functionality of the application:
 
-[your lik here](https://drive.google.com/file/d/15A9knKtbaOZnkoair35OFyMD2IMJEGfC/view)
+[Click here to see the walkthrough Video](https://drive.google.com/file/d/15A9knKtbaOZnkoair35OFyMD2IMJEGfC/view)
