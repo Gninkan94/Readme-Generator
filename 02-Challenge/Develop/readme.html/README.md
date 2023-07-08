@@ -12,24 +12,25 @@
   
 * [license](#license)
 
-  ##Description
+  ## Description
   This is a readme file generator using the command line. This was created to help developers to quickly generate a readme file so they can focus on the development of their project. The technologies used to create this generator is NodeJs and and the inquirer packages.
-  ##Installation
+  ## Installation
   N/A
-  ##Usage
+  ## Usage
   nodeJs, javascript, HTML and Inquirer packages, 
-  ##Contributors
+  ## Contributors
   N/A
-  ##Contact-me
-  .name  Ibrahima Diallo
-  .Email  ibrahimadiallo2394@gmail.com
-  .Github  $[gninkan94](https://github.com/gninkan94/)
-  ##testing
+  ## Contact-me
+  Name  Ibrahima Diallo
+  Email  ibrahimadiallo2394@gmail.com
+  Github  $[gninkan94](https://github.com/gninkan94/)
+  ## testing
   ``  N/A
   ```
-  ##Questions
+  ## Questions
+  
   N/A
 
-  ##license
+  ## license
     licensed under the  MITlicense.
 

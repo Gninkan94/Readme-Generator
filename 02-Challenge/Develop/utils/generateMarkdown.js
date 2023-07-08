@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if(license !== "none"){
-    return `![Github license ](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`;
+    return `![Github license ](https://img.shields.io/badge/license-${license}-redreen.svg)`;
   }
   return "";
 }
@@ -20,7 +20,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== "none"){
-    return `##license
+    return `## license
     licensed under the ${""} ${license}license.`;
   }
 }
@@ -39,23 +39,23 @@ function generateMarkdown(data) {
   . [Testing](#testing)
   . [Questions](#questions)
   ${renderLicenseLink(data.license)}
-  ##Description
+  ## Description
   ${data.description}
-  ##Installation
+  ## Installation
   ${data.installation}
-  ##Usage
+  ## Usage
   ${data.usage}
-  ##Contributors
+  ## Contributors
   ${data.contributors}
-  ##Contact-me
-  .name  ${data.name}
-  .Email  ${data.email}
-  .Github  $[${data.creator}](https://github.com/${data.creator}/)
-  ##testing
+  ## Contact-me
+  Name  ${data.name}
+  Email  ${data.email}
+  Github  $[${data.creator}](https://github.com/${data.creator}/)
+  ## Testing
   \`\`\
   ${data.test}
   \`\`\`
-  ##Questions
+  ## Questions
   ${data.questions}
 
   ${renderLicenseSection(data.license)}
