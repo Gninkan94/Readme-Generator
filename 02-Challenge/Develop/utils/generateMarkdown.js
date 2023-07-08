@@ -21,7 +21,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "none"){
     return `## license
-    licensed under the ${""} ${license}license.`;
+    licensed under the ${license} license.`;
   }
 }
 
@@ -48,9 +48,9 @@ function generateMarkdown(data) {
   ## Contributors
   ${data.contributors}
   ## Contact-me
-  Name  ${data.name}
-  Email  ${data.email}
-  Github  $[${data.creator}](https://github.com/${data.creator}/)
+  . Name - ${data.name}
+  . Email - ${data.email}
+  . Github - $[${data.creator}](https://github.com/${data.creator}/)
   ## Testing
   \`\`\
   ${data.test}
