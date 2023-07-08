@@ -4,5 +4,6 @@ This is a readme file generator using the command line. This was created to help
 ## Contributors
 N/A
 
-## link of a walkthrough video demonstrating the functionality of the application.
+## link of a walkthrough video demonstrating the functionality of the application:
 
+[your lik here](https://drive.google.com/file/d/15A9knKtbaOZnkoair35OFyMD2IMJEGfC/view)
