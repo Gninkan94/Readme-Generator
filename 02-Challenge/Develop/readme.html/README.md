@@ -23,7 +23,7 @@
   ## Contact-me
   . Name - Ibrahima Diallo
   . Email - ibrahimadiallo2394@gmail.com
-  . Github - $[gninkan94](https://github.com/gninkan94/)
+  . Github - [gninkan94](https://github.com/gninkan94/)
   ## Testing
   
   N/A
